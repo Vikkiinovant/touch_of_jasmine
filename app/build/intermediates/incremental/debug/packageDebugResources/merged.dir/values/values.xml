@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="MonthsList">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="MonthsShort">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="WeekDaysShort">
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
+    </string-array>
+    <string-array name="custom_months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <color name="app_bg_color">@color/color_white</color>
+    <color name="app_bg_dark_color">@color/color_white</color>
+    <color name="app_color">@color/primary_color</color>
+    <color name="app_color_status_bar">@color/color_white</color>
+    <color name="bg_color_dark_grey">#DCDCDC</color>
+    <color name="bg_color_fully_transparent">@color/color_transparent</color>
+    <color name="border_color_grey">#707070</color>
+    <color name="border_color_primary">@color/color_grey</color>
+    <color name="btn_bg_color_primary">@color/secondary_color</color>
+    <color name="btn_bg_color_secondary">#141414</color>
+    <color name="btn_txt_color_primary">@color/primary_color</color>
+    <color name="btn_txt_color_secondary">#141414</color>
+    <color name="checkbox_color">@color/color_black</color>
+    <color name="color_black">#FF000000</color>
+    <color name="color_grey">#DCDCDC</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="color_white">#FFFFFFFF</color>
+    <color name="divider_line_color">#F1F1F1</color>
+    <color name="divider_line_color_grey">#66C6C6C8</color>
+    <color name="divider_line_color_light">#DCDCDC</color>
+    <color name="divider_line_color_white">@color/color_white</color>
+    <color name="hint_color_primary">#95A4B4</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="primary_color">#FFFFFF</color>
+    <color name="primary_dark_color">#1F211F</color>
+    <color name="primary_light_color">@color/color_white</color>
+    <color name="secondary_color">#A78846</color>
+    <color name="secondary_dark_color">#1F211F</color>
+    <color name="secondary_light_color">#FFF9F9</color>
+    <color name="tab_bg_color_selected">@color/tint_color_selected</color>
+    <color name="tab_bg_color_unselected">@color/tint_color_unselected</color>
+    <color name="tab_txt_color_selected">@color/color_white</color>
+    <color name="tab_txt_color_unselected">@color/color_black</color>
+    <color name="tint_color_selected">@color/color_black </color>
+    <color name="tint_color_unselected">#9A9A9A</color>
+    <color name="toolbar_color_icon">#141414</color>
+    <color name="toolbar_color_text">@color/txt_color_primary</color>
+    <color name="txt_color_black">@color/color_black</color>
+    <color name="txt_color_primary">#141414</color>
+    <color name="txt_color_secondary">#4D4C4C</color>
+    <color name="txt_color_white">@color/color_white</color>
+    <dimen name="Large_header_text_size">@dimen/_28ssp</dimen>
+    <dimen name="banner_carousal_margin">@dimen/_24sdp</dimen>
+    <dimen name="banner_carousal_next_item_margin">@dimen/_30sdp</dimen>
+    <dimen name="banner_carousal_viewpager_height">@dimen/_160sdp</dimen>
+    <dimen name="banner_image_height">@dimen/_163sdp</dimen>
+    <dimen name="banner_viewpager_height">@dimen/_210sdp</dimen>
+    <dimen name="big_text_size">@dimen/_13ssp</dimen>
+    <dimen name="bigger_text_size">@dimen/_14ssp</dimen>
+    <dimen name="biggest_text_size">@dimen/_15ssp</dimen>
+    <dimen name="bottom_tab_height">@dimen/_40sdp</dimen>
+    <dimen name="bottom_tab_icon">@dimen/_19sdp</dimen>
+    <dimen name="btn_corner_radius">@dimen/_6sdp</dimen>
+    <dimen name="btn_size">@dimen/_37sdp</dimen>
+    <dimen name="btn_text_size">@dimen/_12ssp</dimen>
+    <dimen name="calender_text_size">@dimen/_17ssp</dimen>
+    <dimen name="corner_size_50_percent">@dimen/_50sdp</dimen>
+    <dimen name="description_text_size">@dimen/_9ssp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" ns1:override="true">@dimen/nav_text_sizes</dimen>
+    <dimen name="design_bottom_navigation_margin" ns1:override="true">@dimen/_5sdp</dimen>
+    <dimen name="design_bottom_navigation_text_size" ns1:override="true">@dimen/nav_text_sizes</dimen>
+    <dimen name="divider_line_height">0.8dp</dimen>
+    <dimen name="edit_text_corner_radius">@dimen/_2sdp</dimen>
+    <dimen name="edit_text_height">@dimen/_38sdp</dimen>
+    <dimen name="edit_text_icon_margin">@dimen/_10sdp</dimen>
+    <dimen name="edtTextSize">@dimen/_11ssp</dimen>
+    <dimen name="edt_end_icon_height">@dimen/_13sdp</dimen>
+    <dimen name="edt_end_icon_width">@dimen/_13sdp</dimen>
+    <dimen name="edt_height">@dimen/_40sdp</dimen>
+    <dimen name="emergency_number_text_size">@dimen/_30ssp</dimen>
+    <dimen name="extra_large_text_size">@dimen/_20ssp</dimen>
+    <dimen name="extra_smallest_text_size">@dimen/_5ssp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="header_container_height">@dimen/_35sdp</dimen>
+    <dimen name="header_label_height">@dimen/_35sdp</dimen>
+    <dimen name="header_label_text_size">@dimen/_13ssp</dimen>
+    <dimen name="header_text_size">@dimen/_14ssp</dimen>
+    <dimen name="hintTextSize">@dimen/_10ssp</dimen>
+    <dimen name="huge_text_size">@dimen/_16ssp</dimen>
+    <dimen name="icon_end_margin">@dimen/_8sdp</dimen>
+    <dimen name="indicator_dot_size">@dimen/_7sdp</dimen>
+    <dimen name="indicator_dot_spacing">@dimen/_10sdp</dimen>
+    <dimen name="indicator_selected_dot_size">@dimen/_7sdp</dimen>
+    <dimen name="input_box_size">@dimen/_40sdp</dimen>
+    <dimen name="item_margin">@dimen/_50sdp</dimen>
+    <dimen name="label_section_top_margin">@dimen/_6sdp</dimen>
+    <dimen name="label_text_size">@dimen/_11ssp</dimen>
+    <dimen name="largest_text_size">@dimen/_19ssp</dimen>
+    <dimen name="lv_item_label_text_size">@dimen/_9ssp</dimen>
+    <dimen name="medium_header_text_size">@dimen/_18ssp</dimen>
+    <dimen name="medium_text_size">@dimen/_12ssp</dimen>
+    <dimen name="nav_bar_height">@dimen/_45sdp</dimen>
+    <dimen name="nav_drawer_menu_height">@dimen/_38sdp</dimen>
+    <dimen name="nav_text_sizes">@dimen/_9ssp</dimen>
+    <dimen name="quantity_text_size">@dimen/_25ssp</dimen>
+    <dimen name="row_container_height">@dimen/_38sdp</dimen>
+    <dimen name="screen_margin">@dimen/_12sdp</dimen>
+    <dimen name="search_box_height">@dimen/_55sdp</dimen>
+    <dimen name="section_sub_title_text_size">@dimen/_10ssp</dimen>
+    <dimen name="section_title_text_size">@dimen/_12ssp</dimen>
+    <dimen name="section_top_margins">@dimen/_20sdp</dimen>
+    <dimen name="small_btn_text_size">@dimen/_9ssp</dimen>
+    <dimen name="small_divider_line_height">0.5dp</dimen>
+    <dimen name="small_text_size">@dimen/_8ssp</dimen>
+    <dimen name="smaller_text_size">@dimen/_7ssp</dimen>
+    <dimen name="smallest_text_size">@dimen/_6ssp</dimen>
+    <dimen name="subtitle_text_size">@dimen/_10ssp</dimen>
+    <dimen name="ten_text_size">@dimen/_10ssp</dimen>
+    <dimen name="title_text_size">@dimen/_11ssp</dimen>
+    <dimen name="tool_bar_height">@dimen/_44sdp</dimen>
+    <dimen name="toolbar_header_text_size">@dimen/_15ssp</dimen>
+    <dimen name="twenty_text_size">@dimen/_20ssp</dimen>
+    <dimen name="val_text_size">@dimen/_11ssp</dimen>
+    <dimen name="val_top_margin">@dimen/_1sdp</dimen>
+    <dimen name="view_top_margin">@dimen/_12sdp</dimen>
+    <plurals name="days">
+        <item quantity="one">%1$s day ago</item>
+        <item quantity="other">%1$s days ago</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%1$s hour ago</item>
+        <item quantity="other">%1$s hours ago</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%1$s minute ago</item>
+        <item quantity="other">%1$s minutes ago</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="one">%1$s month ago</item>
+        <item quantity="other">%1$s months ago</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%1$s second ago</item>
+        <item quantity="other">%1$s seconds ago</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="one">%1$s week ago</item>
+        <item quantity="other">%1$s weeks ago</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="one">%1$s year ago</item>
+        <item quantity="other">%1$s years ago</item>
+    </plurals>
+    <string name="alert_language">تريد تغيير لغتك إلى اللغة العربية؟</string>
+    <string name="alert_title_lang">انذار!</string>
+    <string name="app_name" translatable="false">Touch Of Jasmine</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="camera">Camera</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_image">Choose image</string>
+    <string name="done">Done</string>
+    <string name="email_not_found">Email ID not found</string>
+    <string name="enable_camera_to_continue">You need to enable/allow Camera access from app settings to continue…</string>
+    <string name="enable_location_to_continue">You need to enable location to continue</string>
+    <string name="enable_notification_to_continue">You need to enable/allow Notification Access from app settings to continue…</string>
+    <string name="enable_storage_to_continue">You need to enable/allow storage access from app settings to continue…</string>
+    <string name="error_enter_confirm_new_password">Please enter confirm new password</string>
+    <string name="error_enter_confirm_password">Please enter confirm password</string>
+    <string name="error_enter_email">Please enter email address</string>
+    <string name="error_enter_new_password">Please enter new password</string>
+    <string name="error_enter_old_password">Please enter old password</string>
+    <string name="error_enter_password">Please enter password</string>
+    <string name="error_fb">You have problem in your facebook account. Please try again later.</string>
+    <string name="error_google">You seem to have a problem in your google account. Please try again later.</string>
+    <string name="error_invalid_email">Please enter valid email address</string>
+    <string name="error_message">There was an error while communicating with the server. Please try again later.</string>
+    <string name="error_new_password_length">New password length must be of at least 6 characters</string>
+    <string name="error_new_password_match">New Password and Confirm Password Doesn\'t Match</string>
+    <string name="error_old_password_length">Old password length must be of at least 6 characters</string>
+    <string name="error_old_password_match">Old Password and New Password Doesn\'t Match</string>
+    <string name="error_password_length">Password length must be of at least 6 characters</string>
+    <string name="error_password_match">Password and Confirm Password Doesn\'t Match</string>
+    <string name="gallery">Gallery</string>
+    <string name="google_map_key" translatable="false">add_google_map_key_here</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_email_id">Email Id</string>
+    <string name="hint_password">Password</string>
+    <string name="label_arabic">عربي</string>
+    <string name="label_dont_have_an_account">Dont have an account?</string>
+    <string name="label_english">English</string>
+    <string name="label_lets_get_started">Let\'s get started</string>
+    <string name="label_login">Login</string>
+    <string name="label_login_subtitle">Let\'s get you connected with business \nowners</string>
+    <string name="label_or">Or</string>
+    <string name="label_remember_me">Remember me</string>
+    <string name="label_select_language">Select language</string>
+    <string name="label_sign_up">Sign up</string>
+    <string name="label_welcome">Welcome</string>
+    <string name="no">No</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_lang">لا</string>
+    <string name="press_back_message">Press back once again to close app.</string>
+    <string name="pushwoosh_app_id_dev" translatable="false">add_app_id_(dev)_here</string>
+    <string name="pushwoosh_app_id_live" translatable="false">add_app_id_(live)_here</string>
+    <string name="pushwoosh_partner_id_dev" translatable="false">pw-(add_app_id_(dev)_here)</string>
+    <string name="pushwoosh_partner_id_live" translatable="false">pw-(add_app_id_(live)_here)</string>
+    <string name="pushwoosh_sender_id" translatable="false">add_sender_id_here</string>
+    <string name="select">Select</string>
+    <string name="selected_language_name">العربية</string>
+    <string name="text_enable">Enable</string>
+    <string name="user_login_successfully">User logged in successfully</string>
+    <string name="yes_lang">نعم</string>
+    <style name="AlertDialogTheme" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="colorAccent">@color/txt_color_primary</item>
+        <item name="android:background">@color/app_bg_color</item>
+    </style>
+    <style name="AppBackGroundStyleDark">
+        <item name="android:background">@color/color_white</item>
+    </style>
+    <style name="AppBackGroundStyleLight">
+        <item name="android:background">@color/app_bg_color</item>
+    </style>
+    <style name="AppBottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/AppModalStyle</item>
+    </style>
+    <style name="AppModalStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="AppTabLayout" parent="Widget.Design.TabLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="tabPaddingStart">@dimen/_6sdp</item>
+        <item name="tabPaddingEnd">@dimen/_6sdp</item>
+        <item name="android:gravity">center</item>
+        <item name="tabRippleColor">@null</item>
+        <item name="tabBackground">@null</item>
+        <item name="android:background">@color/app_bg_color</item>
+        <item name="tabTextAppearance">@style/AppTabTextAppearance</item>
+        <item name="tabSelectedTextColor">@color/tab_txt_color_selected</item>
+        <item name="tabTextColor">@color/tab_txt_color_unselected</item>
+        <item name="tabIndicatorHeight">0dp</item>
+        <item name="tabMode">fixed</item>
+        <item name="android:elevation">@dimen/_1sdp</item>
+    </style>
+    <style name="AppTabLayout.Selected">
+        <item name="fontFamily">@font/font_semibold</item>
+    </style>
+    <style name="AppTabLayout.UnSelected">
+        <item name="fontFamily">@font/font_medium</item>
+    </style>
+    <style name="AppTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textColor">@color/tab_txt_color_selected</item>
+        <item name="tabRippleColor">@null</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="AppTheme.CropActivity" parent="Theme.MaterialComponents.Light">
+        
+        <item name="colorPrimary">@color/app_color</item>
+        <item name="colorPrimaryDark">@color/app_color</item>
+        <item name="colorAccent">@color/color_black</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowBackground">@color/app_bg_color</item>
+        <item name="android:statusBarColor">@color/app_color_status_bar</item>
+        <item name="colorControlActivated">@color/app_bg_dark_color</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">true</item>
+        <item name="bottomSheetDialogTheme">@style/AppBottomSheetDialogTheme</item>
+
+    </style>
+    <style name="AppTheme.IntroTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/app_color</item>
+        <item name="colorPrimaryDark">@color/app_color</item>
+        <item name="colorAccent">@color/color_black</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowBackground">@color/app_bg_color</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@android:color/transparent</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="colorControlActivated">@color/app_bg_dark_color</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">true</item>
+        <item name="bottomSheetDialogTheme">@style/AppBottomSheetDialogTheme</item>
+
+    </style>
+    <style name="AppTheme.SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/app_color</item>
+        <item name="colorPrimaryDark">@color/app_color</item>
+        <item name="colorAccent">@color/color_black</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowBackground">@color/app_bg_color</item>
+        <item name="android:statusBarColor">@color/color_transparent</item>
+        <item name="colorControlActivated">@color/app_bg_dark_color</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+        <item name="bottomSheetDialogTheme">@style/AppBottomSheetDialogTheme</item>
+
+    </style>
+    <style name="AppTheme.basic_android_setup" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/app_color</item>
+        <item name="colorPrimaryDark">@color/app_color</item>
+        <item name="colorAccent">@color/color_black</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowBackground">@color/app_bg_color</item>
+        <item name="android:statusBarColor">@color/app_color_status_bar</item>
+        <item name="colorControlActivated">@color/app_bg_dark_color</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">true</item>
+        <item name="bottomSheetDialogTheme">@style/AppBottomSheetDialogTheme</item>
+
+    </style>
+    <style name="BottomNavigationViewStyle" parent="@style/TextAppearance.AppCompat.Caption">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/bottom_tab_height</item>
+        <item name="itemBackground">@color/bg_color_fully_transparent</item>
+        <item name="tabPaddingStart">0dp</item>
+        <item name="tabPaddingEnd">0dp</item>
+        <item name="itemIconSize">@dimen/bottom_tab_icon</item>
+        <item name="itemIconTint">@color/bottom_tab_colors</item>
+        <item name="itemTextColor">@color/bottom_tab_colors</item>
+        <item name="labelVisibilityMode">labeled</item>
+        <item name="rippleColor">@null</item>
+        <item name="elevation">0dp</item>
+        <item name="android:fontFamily">@font/font_regular</item>
+    </style>
+    <style name="BottomSheetDialogTheme" parent="Theme.MaterialComponents.Light.BottomSheetDialog">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:background">@null</item>
+        <item name="android:backgroundTint">@color/bg_color_fully_transparent</item>
+    </style>
+    <style name="CalendarDateTextStyle">
+        <item name="android:textAppearance">@style/fontRegular</item>
+        <item name="android:textSize">@dimen/subtitle_text_size</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+    </style>
+    <style name="CalendarDayTextStyle">
+        <item name="android:textAppearance">@style/fontMedium</item>
+        <item name="android:textSize">@dimen/subtitle_text_size</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+    </style>
+    <style name="CommonButtonStyle">
+        <item name="android:background">@drawable/btn_bg</item>
+        <item name="android:layout_height">@dimen/btn_size</item>
+        <item name="android:textColor">@color/txt_color_white</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:fontFamily">@font/font_semibold</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">@dimen/btn_text_size</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:paddingBottom">@dimen/_1sdp</item>
+    </style>
+    <style name="CommonInputEditTextStyle" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/edtTextSize</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/edt_height</item>
+        <item name="android:layout_gravity">start|center_vertical</item>
+        <item name="android:background">@drawable/bg_edit_text</item>
+        <item name="backgroundColor">@color/edt_color_state</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+        <item name="android:textColorHint">@color/hint_color_primary</item>
+        <item name="android:gravity">start|center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:paddingStart">@dimen/_8sdp</item>
+        <item name="android:paddingEnd">@dimen/_8sdp</item>
+        <item name="android:imeOptions">actionNext</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@font/font_regular</item>
+        <item name="android:inputType">text</item>
+    </style>
+    <style name="CustomAlertDialogStyle">
+        <item name="android:bottomBright">@android:color/transparent</item>
+        <item name="android:bottomDark">@android:color/transparent</item>
+        <item name="android:bottomMedium">@android:color/transparent</item>
+        <item name="android:centerBright">@android:color/transparent</item>
+        <item name="android:centerDark">@android:color/transparent</item>
+        <item name="android:centerMedium">@android:color/transparent</item>
+        <item name="android:fullBright">@android:color/transparent</item>
+        <item name="android:fullDark">@android:color/transparent</item>
+        <item name="android:topBright">@android:color/transparent</item>
+        <item name="android:topDark">@android:color/transparent</item>
+    </style>
+    <style name="DividerLine">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/divider_line_height</item>
+        <item name="android:background">@color/divider_line_color</item>
+    </style>
+    <style name="DividerLineStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0.8dp</item>
+        <item name="android:background">@color/divider_line_color</item>
+    </style>
+    <style name="DividerLineStyleHorizontal">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/divider_line_color</item>
+    </style>
+    <style name="DividerLineStyleLarge">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/_4sdp</item>
+        <item name="android:backgroundTint">@color/divider_line_color_grey</item>
+    </style>
+    <style name="DividerLineStyleMedium">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/_1sdp</item>
+        <item name="android:background">@color/divider_line_color_white</item>
+    </style>
+    <style name="DividerLineStyleMediumHorizontal">
+        <item name="android:layout_width">@dimen/_1sdp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/divider_line_color_white</item>
+    </style>
+    <style name="DividerLineStyleSmall">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0.5dp</item>
+        <item name="android:background">@color/divider_line_color</item>
+    </style>
+    <style name="DividerLineStyleSmallWhite">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/divider_line_color</item>
+    </style>
+    <style name="HeaderCalendarTextStyle">
+        <item name="android:textAppearance">@style/fontMedium</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+    </style>
+    <style name="ImageSocials">
+        <item name="android:layout_width">@dimen/_30sdp</item>
+        <item name="android:layout_height">@dimen/_30sdp</item>
+
+    </style>
+    <style name="MyDatePicker" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorControlNormal">@color/color_grey</item>
+        <item name="colorControlActivated">@color/txt_color_black</item>
+        <item name="android:textColorPrimary">@color/txt_color_black</item>
+    </style>
+    <style name="MyDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:alertDialogStyle">@style/CustomAlertDialogStyle</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:statusBarColor">@color/app_color_status_bar</item>
+        <item name="android:textColorPrimary">@color/txt_color_primary</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/medium_text_size</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:layout_margin">0dp</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+    </style>
+    <style name="NavigationDrawerText">
+        <item name="android:textSize">@dimen/subtitle_text_size</item>
+        <item name="itemTextColor">@color/txt_color_primary</item>
+        <item name="android:listDivider">@android:color/transparent</item>
+        <item name="itemIconSize">@dimen/_15sdp</item>
+        <item name="titleMarginStart">@dimen/_12sdp</item>
+        <item name="titleTextColor">@color/border_color_grey</item>
+    </style>
+    <style name="NormalDialogTheme" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:background">@null</item>
+        <item name="android:backgroundTint">@color/bg_color_fully_transparent</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.CornerSize1Percent" parent="">
+        <item name="cornerSize">1%</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.CornerSize2Percent" parent="">
+        <item name="cornerSize">2%</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.CornerSize3Percent" parent="">
+        <item name="cornerSize">3%</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.CornerSize50Percent" parent="">
+        <item name="cornerSize">50%</item>
+        <item name="cornerFamily">rounded</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.CornerSize5Percent" parent="">
+        <item name="cornerSize">5%</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.CornerSize7Percent" parent="">
+        <item name="cornerSize">7%</item>
+    </style>
+    <style name="TextStyleCenterBold" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/font_semibold</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+    </style>
+    <style name="TextStyleCenterMedium" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/font_medium</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+    </style>
+    <style name="TextStyleCenterRegular" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/font_regular</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+    </style>
+    <style name="TextStyleCenterSemiBold" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/font_semibold</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+    </style>
+    <style name="TextStyleEndBold" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/font_semibold</item>
+        <item name="android:textAlignment">viewEnd</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+    </style>
+    <style name="TextStyleEndMedium" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/font_medium</item>
+        <item name="android:textAlignment">viewEnd</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+    </style>
+    <style name="TextStyleEndRegular" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/font_regular</item>
+        <item name="android:textAlignment">viewEnd</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+    </style>
+    <style name="TextStyleEndSemiBold" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/font_semibold</item>
+        <item name="android:textAlignment">viewEnd</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+    </style>
+    <style name="TextStyleStartBold" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/font_semibold</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+        <item name="android:gravity">start</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="TextStyleStartMedium" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/font_medium</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+        <item name="android:gravity">start</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="TextStyleStartRegular" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/font_regular</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+        <item name="android:gravity">start</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="TextStyleStartSemiBold" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/font_semibold</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+        <item name="android:gravity">start</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="TextviewAsEdittextStyle" parent="@android:style/TextAppearance">
+        <item name="android:layout_gravity">start</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">@font/font_regular</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+        <item name="android:textColorHint">@color/hint_color_primary</item>
+    </style>
+    <style name="TransparentStatusBarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="statusBarBackground">@android:color/transparent</item>
+        <item name="statusBarForeground">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+    </style>
+    <style name="fontBold">
+        <item name="android:fontFamily">@font/font_bold</item>
+    </style>
+    <style name="fontMedium">
+        <item name="android:fontFamily">@font/font_medium</item>
+    </style>
+    <style name="fontRegular">
+        <item name="android:fontFamily">@font/font_regular</item>
+    </style>
+    <style name="fontRegularRev">
+        <item name="android:fontFamily">@font/font_regular_rev</item>
+    </style>
+    <style name="fontSemiBold">
+        <item name="android:fontFamily">@font/font_semibold</item>
+    </style>
+    <style name="headTextStyle" parent="@android:style/TextAppearance">
+        <item name="android:gravity">start|center_vertical</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:lineSpacingExtra">@dimen/_2sdp</item>
+        <item name="android:textAppearance">@style/fontBold</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/txt_color_primary</item>
+        <item name="android:textSize">@dimen/biggest_text_size</item>
+    </style>
+    <style name="titleTextViewBold" parent="@android:style/TextAppearance">
+        <item name="android:gravity">start|center_vertical</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:lineSpacingExtra">@dimen/_2sdp</item>
+        <item name="android:fontFamily">@font/font_semibold</item>
+        <item name="android:textSize">@dimen/medium_text_size</item>
+    </style>
+    <style name="titleTextViewRegular" parent="@android:style/TextAppearance">
+        <item name="android:gravity">start|center_vertical</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:lineSpacingExtra">@dimen/_2sdp</item>
+        <item name="android:fontFamily">@font/font_regular</item>
+        <item name="android:textSize">@dimen/subtitle_text_size</item>
+    </style>
+</resources>

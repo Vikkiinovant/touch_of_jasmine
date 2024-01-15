@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/layout_toolbar.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/layout_toolbar.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/fragment_home.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/activity_intro.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/lv_item_footer_loading.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/lv_item_footer_loading.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/dialog_loading_full_screen.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/dialog_loading_full_screen.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/activity_login.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/nav_header_layout.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/nav_header_layout.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/layout_image_picker.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/layout_image_picker.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/activity_splash.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/activity_home.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/dialog_loading.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/dialog_loading_bottom_bar.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/dialog_loading_bottom_bar.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/layout_custom_alert.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/layout_custom_alert.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/layout_empty.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/layout_empty.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/layout_snack_bar.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/layout_snack_bar.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/layout_calender.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/layout_calender.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-mergeDebugResources-77:/layout/layout_bottom_sheet_picker.xml",
+        "source": "com.app.touch_of_jasmine.app-main-80:/layout/layout_bottom_sheet_picker.xml"
+    }
+]

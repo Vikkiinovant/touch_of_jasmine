@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_btn_bg.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\font-ar_font_semibold.ttf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\font-ar\\font_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\color_edt_color_state.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\color\\edt_color_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_lv_item_footer_loading.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\lv_item_footer_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\font_font_regular_rev.otf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\font\\font_regular_rev.otf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_black_rounded_corner_bg.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\black_rounded_corner_bg.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_layout_snack_bar.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\layout_snack_bar.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\font-ar_font_regular_rev.otf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\font-ar\\font_regular_rev.otf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\font-ar_font_black.ttf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\font-ar\\font_black.ttf"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\font_font_light.otf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\font\\font_light.otf"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_ic_eye_closed.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\ic_eye_closed.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_dialog_loading.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_bg_circle_calendar.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\bg_circle_calendar.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_white_top_rounded_corner_bg.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\white_top_rounded_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_layout_empty.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\layout_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_ic_google.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\ic_google.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_layout_image_picker.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\layout_image_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_dialog_loading_bottom_bar.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\dialog_loading_bottom_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_bg_circle_calendar_disabled.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\bg_circle_calendar_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_ic_facebook.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\ic_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_dialog_loading_full_screen.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\dialog_loading_full_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\font_font_regular.otf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\font\\font_regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_ic_right_arrow.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\ic_right_arrow.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\font_font_black.otf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\font\\font_black.otf"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_bg_circle_white.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\bg_circle_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_bg_rounded_corners.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\bg_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\menu_bottom_tab_menu.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\menu\\bottom_tab_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_ic_gallery_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\ic_gallery_24.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_bg_circle_calendar_unselected.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\bg_circle_calendar_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_layout_calender.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\layout_calender.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_nav_header_layout.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\nav_header_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\font-ar_font_regular.otf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\font-ar\\font_regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\font_font_semibold.otf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\font\\font_semibold.otf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\font_font_bold.otf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\font\\font_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\font-ar_font_medium.ttf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\font-ar\\font_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_ic_camera_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\ic_camera_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\font-ar_font_light.otf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\font-ar\\font_light.otf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_layout_custom_alert.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\layout_custom_alert.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/color_edt_color_state.xml.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/color/edt_color_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\font-ar_font_bold.ttf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\font-ar\\font_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\color_bottom_tab_colors.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\color\\bottom_tab_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\font_font_medium.otf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\font\\font_medium.otf"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_ic_eye.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\ic_eye.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_layout_toolbar.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\layout_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\xml_fileproviderpaths.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\xml\\fileproviderpaths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\layout_layout_bottom_sheet_picker.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\layout\\layout_bottom_sheet_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "com.app.touch_of_jasmine.app-merged_res-78:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.app.touch_of_jasmine.app-main-80:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\drawable_bg_edit_text.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\drawable\\bg_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-merged_res-78:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.app.touch_of_jasmine.app-main-80:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]
